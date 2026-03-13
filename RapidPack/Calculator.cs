@@ -7,6 +7,13 @@ Console.WriteLine("=== RapidPack – Wycena Paczki ===\n");
 Console.Write("Podaj wagę (kg): ");
 double waga = double.Parse(Console.ReadLine()!);
  
+
+if (waga > 30)
+{
+    Console.WriteLine("\nBŁĄD: Paczka za ciężka! Maksymalnie 30 kg.");
+    return;
+}
+ 
 Console.Write("Wysokość (cm): ");
 double wysokosc = double.Parse(Console.ReadLine()!);
  
