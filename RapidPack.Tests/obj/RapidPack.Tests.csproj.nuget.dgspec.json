@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj": {}
+    "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj": {}
   },
   "projects": {
-    "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj": {
+    "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj",
+        "projectUniqueName": "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj",
         "projectName": "RapidPack.Tests",
-        "projectPath": "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj",
-        "packagesPath": "/home/block/.nuget/packages/",
-        "outputPath": "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/obj/",
+        "projectPath": "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/RapidPack.Tests.csproj",
+        "packagesPath": "/home/bula/.nuget/packages/",
+        "outputPath": "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/block/.nuget/NuGet/NuGet.Config"
+          "/home/bula/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -26,8 +26,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj": {
-                "projectPath": "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj"
+              "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj": {
+                "projectPath": "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj"
               }
             }
           }
@@ -85,21 +85,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/block/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/bula/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj": {
+    "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj",
+        "projectUniqueName": "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj",
         "projectName": "RapidPack",
-        "projectPath": "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj",
-        "packagesPath": "/home/block/.nuget/packages/",
-        "outputPath": "/home/block/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/obj/",
+        "projectPath": "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/RapidPack.csproj",
+        "packagesPath": "/home/bula/.nuget/packages/",
+        "outputPath": "/home/bula/RiderProjects/desktop-rapidpack--bu-akowski-block-/RapidPack/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/block/.nuget/NuGet/NuGet.Config"
+          "/home/bula/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -166,7 +166,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/block/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/bula/.dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
