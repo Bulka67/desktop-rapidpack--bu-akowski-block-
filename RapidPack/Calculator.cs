@@ -5,7 +5,7 @@ Console.OutputEncoding = System.Text.Encoding.UTF8;
 
 while (true)
 {
-    Console.Clear();
+
     Console.WriteLine("=== RapidPack – Wycena Paczki ===\n");
 
     Console.Write("Podaj wagę (kg): ");
