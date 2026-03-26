@@ -5,7 +5,24 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="RapidPack.MainWindow"
         Title="RapidPack Wycena Paczki"
-        Foreground="#1A365D"
-        Margin="0,0,0,6">
-    Welcome to Avalonia!
+        Background="#F7FAFC">
+
+    <StackPanel Margin="24,20,24,24" Spacing="10">
+
+        <TextBlock Text="📦 RapidPack – Wycena Paczki"
+                   FontSize="20" FontWeight="Bold"
+                   Foreground="#1A365D"/>
+
+        <Grid ColumnDefinitions="*,12,*">
+            <StackPanel Grid.Column="0" Spacing="4">
+                <TextBlock Text="Sekcja lewa" FontSize="13" Foreground="#2D3748"/>
+            </StackPanel>
+            <StackPanel Grid.Column="2" Spacing="4">
+                <TextBlock Text="Sekcja prawa" FontSize="13" Foreground="#2D3748"/>
+            </StackPanel>
+        </Grid>
+
+        
+
+    </StackPanel>
 </Window>
